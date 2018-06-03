@@ -1,2 +1,2 @@
-# Homework - Wireframe
-This homework is on html/css.
+
+Basic structure of an article using html/css.
